@@ -1,6 +1,6 @@
 {
-    "name": "yaadman_online",
-    "short_name": "yaadman_online",
+    "name": "yaadman_online_admin",
+    "short_name": "yaadman_online_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
